@@ -1,6 +1,6 @@
 # ABM-Simulation_Labor-Market_and_AI-Innovation
 
-Aquí te presento algunas opciones de simulaciones microeconómicas que podrían ser útiles para entender la teoría de oferta y demanda y hacer predicciones sobre cambios en innovación tecnológica:
+Presento a continuación algunas opciones de simulaciones microeconómicas que podrían ser útiles para entender la teoría de oferta y demanda y hacer predicciones sobre cambios en innovación tecnológica:
 
 # Simulaciones microeconómicas
 - NetLogo: Un entorno de modelado y simulación basado en agentes que permite crear modelos de sistemas complejos, incluyendo mercados y economías. Puedes encontrar ejemplos de modelos de oferta y demanda en el sitio web de NetLogo.
