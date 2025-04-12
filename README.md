@@ -1,4 +1,4 @@
-# ABM-AI_Labor-market_innovation-Simulation
+# ABM-Simulation_Labor-Market_and_AI-Innovation
 
 Aquí te presento algunas opciones de simulaciones microeconómicas que podrían ser útiles para entender la teoría de oferta y demanda y hacer predicciones sobre cambios en innovación tecnológica:
 
