@@ -17,3 +17,27 @@ Presento a continuación algunas opciones de simulaciones microeconómicas que p
 # Ejemplos de código
 - Modelo de oferta y demanda en NetLogo: Un ejemplo de código que simula el comportamiento de la oferta y la demanda en un mercado.
 - Modelo de innovación tecnológica en Repast: Un ejemplo de código que simula el impacto de la innovación tecnológica en la economía.
+
+
+## Para crear modelos basados en agentes en microeconomía (oferta, demanda, impacto tecnológico en sueldos), puedes usar estas librerías en Python:
+
+Mesa: Framework específico para modelos basados en agentes
+pythonpip install mesa
+
+AgentPy: Alternativa moderna a Mesa, con mejor rendimiento
+pythonpip install agentpy
+
+SimPy: Para simulaciones basadas en eventos discretos
+pythonpip install simpy
+
+NetworkX: Para modelar redes de agentes y sus interacciones
+pythonpip install networkx
+
+EconPy/QuantEcon: Herramientas económicas específicas
+pythonpip install quantecon
+
+Pandas y NumPy: Para manipulación de datos y cálculos
+pythonpip install pandas numpy
+
+Matplotlib/Seaborn/Plotly: Para visualización de resultados
+pythonpip install matplotlib seaborn plotly
